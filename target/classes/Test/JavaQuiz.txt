@@ -1,0 +1,27 @@
+Eto vopros tipa test zdes neskolko tipov otvetov
+otvet
+2tvet
+3otvet
+4otvet
+
+Et vopros tipoa test zdes neskolko tipov otvetov
+1otvet
+2otvet
+3otvet
+4otve
+
+Eto vopros tipa test zdes neskolko tipov otvetov
+1otvet
+2otvet
+3otvet
+4otvet
+
+The visibility modifier that makes a data field/method visible only within this class and any class in the same package:
+protected
+public
+(blank) default
+private
+
+
+
+.
